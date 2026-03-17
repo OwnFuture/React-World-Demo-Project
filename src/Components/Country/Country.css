@@ -1,0 +1,12 @@
+.country{
+    border: 2px solid seagreen;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.button{
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+}
